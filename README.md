@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aimal Khan</h1>
-<h3 align="center">I'm a programmer, a real geek. I eat, breath, live and sleep code. I'm a coding wizard and I love it 😀</h3>
+<h3 align="center">
+  I'm a programmer, a real geek. I eat, breath, live and sleep code. I'm a coding wizard and I love it 😀<br>
+</h3>
+
+I am a Computer Engineering Student and web developer. I have a passion for Machine Learning and Blockchain Development and have experience in MERN Stack.
+I am always looking for new opportunities to learn and grow, so feel free to connect with me and see how we can collaborate.
+
+Thank you for visiting my profile!
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aimalexe&label=Profile%20views&color=0e75b6&style=flat" alt="aimalexe" /> </p>
 
